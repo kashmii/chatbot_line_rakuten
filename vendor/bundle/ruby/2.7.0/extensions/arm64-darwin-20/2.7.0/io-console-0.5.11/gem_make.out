@@ -1,0 +1,20 @@
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/io-console-0.5.11/ext/io/console
+/Users/myac21/.rbenv/versions/2.7.6/bin/ruby -I /Users/myac21/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1imjh6k sitelibdir\=./.gem.20220805-84535-1imjh6k clean
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1imjh6k sitelibdir\=./.gem.20220805-84535-1imjh6k
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1imjh6k sitelibdir\=./.gem.20220805-84535-1imjh6k install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20220805-84535-1imjh6k/io

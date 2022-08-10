@@ -1,0 +1,15 @@
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/myac21/.rbenv/versions/2.7.6/bin/ruby -I /Users/myac21/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1rb7h7k sitelibdir\=./.gem.20220805-84535-1rb7h7k clean
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1rb7h7k sitelibdir\=./.gem.20220805-84535-1rb7h7k
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1rb7h7k sitelibdir\=./.gem.20220805-84535-1rb7h7k install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20220805-84535-1rb7h7k/skiptrace/internal

@@ -1,0 +1,16 @@
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+/Users/myac21/.rbenv/versions/2.7.6/bin/ruby -I /Users/myac21/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1nsb53x sitelibdir\=./.gem.20220805-84535-1nsb53x clean
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1nsb53x sitelibdir\=./.gem.20220805-84535-1nsb53x
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220805-84535-1nsb53x sitelibdir\=./.gem.20220805-84535-1nsb53x install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20220805-84535-1nsb53x/debug

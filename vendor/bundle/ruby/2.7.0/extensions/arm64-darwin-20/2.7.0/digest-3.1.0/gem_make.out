@@ -1,0 +1,18 @@
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+/Users/myac21/.rbenv/versions/2.7.6/bin/ruby -I /Users/myac21/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20220805-81397-i8tvrs.rb extconf.rb
+checking for u_int8_t... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR=" clean
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR="
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.bundle
+
+current directory: /Users/myac21/programming/chatbot_line_rakuten/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 sha2.bundle ./.gem.20220805-81397-1gp1qn7/digest
