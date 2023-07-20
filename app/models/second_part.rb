@@ -1,0 +1,2 @@
+class SecondPart < ApplicationRecord
+end
